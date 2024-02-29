@@ -59,9 +59,9 @@ You can contact me through MS Teams or come to consultation in G-115, 08:00-09:4
 |     2    |     Methods of evaluation of classifiers                                                       |
 |     3    |     Regularization and   cross-validation                                                      |
 |     4    |     Tree-based models (CART, Random   Forest, Boosted Trees)                                   |
-|     5    |     MLOps                                                                                      |
-|     6    |     Modeling competition                                                                       |
-|     7    |     Practical exam                                                                             |
+|     5    |     Modeling competition                                                                       |
+|     6    |     Practical exam                                                                             |
+|     7    |     Non-mandatory consultation                                                                 |
 
 ---
 **Literature**
