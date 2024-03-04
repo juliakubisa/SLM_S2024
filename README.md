@@ -16,7 +16,7 @@ Name: Łukasz Kraiński
 
 Email: lkrain@sgh.waw.pl
 
-You can contact me through MS Teams or come to consultation in G-115, 08:00-09:40 (with previous alignment on Teams or e-mail).
+You can contact me through MS Teams or come to consultation in G-115, Mondays 08:00-09:40 (with previous alignment on Teams or e-mail).
 
 ---
 **Lecturers**
@@ -68,13 +68,12 @@ You can contact me through MS Teams or come to consultation in G-115, 08:00-09:4
 
 * Primary literature
   * Materials shared on lectures
-  * Gareth J., Witten D., Hastie T., Tibshirani R. (2021), [An Introduction to Statistical Learning](https://hastie.su.domains/ISLP/ISLP_website.pdf)
+  * Gareth J., Witten D., Hastie T., Tibshirani R. (2021), [An Introduction to Statistical Learning](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html) 
 * Additional resources
-  * Hastie T., Tibshirani R., Friedman J. (2017), [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
+  * Hastie T., Tibshirani R., Friedman J. (2017), [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
   * Kamiński B. (2022), [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis)
   * Mykel J. Kochenderfer, Tim A. Wheeler, And Kyle H. Wray (2022), [Algorithms for Decision Making](https://algorithmsbook.com/)
   * Stephen Boyd and Lieven Vandenberghe, [Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/)
-  * Kamiński B., Zawisza M. (2012), [Receptury w R. Podręcznik dla ekonomisty](http://bogumilkaminski.pl/projekty/)
   * VanderPlas J. (2016), [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
   * Géron A. (2019), [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://github.com/ageron/handson-ml2)
 
